@@ -1,0 +1,11 @@
+# Site settings
+title: > What is all this nonsense about "branding campaigns", "interactive advertisement", or “conversations” between a brand of butter and consumers?
+email: moruzzi@gmail.com
+description: > Noise signal on that channel, dude.
+baseurl: ""
+url: "http://dotcoma.github.io"
+twitter_username: dotcoma
+github_username:  dotcoma
+
+# Build settings
+markdown: kramdown
