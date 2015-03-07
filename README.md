@@ -1,9 +1,14 @@
 What Happened To Advertising?
 =========================
 
-## Introduction (H2)
+## Introduction 
+
+
+
+## H2 lo fai così
  - Ecco una lista con un `testo evidenziato`.
- - Un'altra voce di lista con un [link](http://google.com/) per vedere la sintassi.
+ - Come si fa un link: by [dotcoma](http://dotcoma.it).
+ 
  - I contenuti sono scritti in genere così:
 ```txt
 ---
@@ -17,10 +22,7 @@ description: testo della pagina
 ---
 ```
 
-## Come si fa un link
-A little book written by [dotcoma](http://dotcoma.it).
-
-## Live
+## Dove?
 Tutto questo è già visibile online, [qui](http://dotcoma.github.io/)
 
 ## Funzionalità da terminare
