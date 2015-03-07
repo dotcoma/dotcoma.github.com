@@ -22,7 +22,7 @@ description: Introduction to: What Happened To Advertising? What Would Gossage D
  - E' già tutto visibile online, [qui](http://dotcoma.github.io/)
 
 ## Come si scrive?  
-- I contenuti sono scritti in genere così: non capisco, onestamente. 
+- I contenuti sono scritti in genere così: non capisco, onestamente.<br />
 Questa roba non dovrebbe essere tutta metadata nascosta agli utenti?
 
 ```txt
