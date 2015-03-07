@@ -25,6 +25,8 @@ description: Introduction to: What Happened To Advertising? What Would Gossage D
 - I contenuti sono scritti in genere così: non capisco, onestamente.<br />
 Questa roba non dovrebbe essere tutta metadata nascosta agli utenti?
 
+(NOTA: io qui ho usato un bel br per andare a capo? E' grave? :)
+
 ```txt
 ---
 layout: default
@@ -37,7 +39,7 @@ description: testo della pagina
 ```
 
 ## Funzionalità da terminare
-- Form contatti: in effetti, ho provsto a scrivere, mi dice: "conferma email", ma 
+- Form contatti: in effetti, ho provsto a scrivere, mi dice: "conferma email", ma<br /> 
 l'email per confermare l'indirizzo email da cui ho scritto non mi è mai arrivata...
 - "Tweet to download" button; Leggi anche questa cosa [sullo sharing](http://blog.getsocial.io/why-dark-social-sharing-isnt-light-years-away)
 - Disqus: io lo farei dopo, quando avremo un "blog"
