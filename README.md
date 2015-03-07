@@ -1,9 +1,7 @@
-What Happened To Advertising
+What Happened To Advertising?
 =========================
 
-A little book written by [dotcoma](http://dotcoma.it).
-
-## Questo è un titolo H2
+## Introduction (H2)
  - Ecco una lista con un `testo evidenziato`.
  - Un'altra voce di lista con un [link](http://google.com/) per vedere la sintassi.
  - I contenuti sono scritti in genere così:
@@ -18,6 +16,9 @@ description: testo della pagina
 
 ---
 ```
+
+## Come si fa un link
+A little book written by [dotcoma](http://dotcoma.it).
 
 ## Live
 Tutto questo è già visibile online, [qui](http://dotcoma.github.io/)
