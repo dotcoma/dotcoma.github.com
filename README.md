@@ -3,6 +3,15 @@ What Happened To Advertising?
 
 ## `Introduction` 
 
+```txt
+---
+layout: default
+modal-id: 1
+date: 2015-03-07
+description: Introduction to: What Happened To Advertising? What Would Gossage Do?
+---
+```
+
 
 
 ## H2 lo fai così
@@ -26,7 +35,9 @@ description: testo della pagina
 Tutto questo è già visibile online, [qui](http://dotcoma.github.io/)
 
 ## Funzionalità da terminare
-- Form contatti: in effetti, ho provsto a scrivere, mi dice: "conferma email", ma l'email per confermare l'indirizzo email da cui ho scritto non mi è mai arrivata.
+- Form contatti: in effetti, ho provsto a scrivere, mi dice: "conferma email", ma 
+l'email per confermare l'indirizzo email da cui ho scritto non mi è mai arrivata...
+
 - "Tweet to download" button
 - Leggi anche questa cosa [sullo sharing](http://blog.getsocial.io/why-dark-social-sharing-isnt-light-years-away)
 - Disqus: io lo farei dopo, quando avremo un "blog"
