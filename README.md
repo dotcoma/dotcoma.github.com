@@ -17,6 +17,7 @@ description: Introduction to: What Happened To Advertising? What Would Gossage D
 ## H2 lo fai così
  - Ecco una lista con un `testo evidenziato`.
  - Come si fa un link: by [dotcoma](http://dotcoma.it).
+ - E un altro: è già tutto visibile online, [qui](http://dotcoma.github.io/)
  
  - I contenuti sono scritti in genere così:
 ```txt
@@ -31,15 +32,11 @@ description: testo della pagina
 ---
 ```
 
-## Dove?
-Tutto questo è già visibile online, [qui](http://dotcoma.github.io/)
-
 ## Funzionalità da terminare
 - Form contatti: in effetti, ho provsto a scrivere, mi dice: "conferma email", ma 
 l'email per confermare l'indirizzo email da cui ho scritto non mi è mai arrivata...
 
-- "Tweet to download" button
-- Leggi anche questa cosa [sullo sharing](http://blog.getsocial.io/why-dark-social-sharing-isnt-light-years-away)
+- "Tweet to download" button; Leggi anche questa cosa [sullo sharing](http://blog.getsocial.io/why-dark-social-sharing-isnt-light-years-away)
 - Disqus: io lo farei dopo, quando avremo un "blog"
 - Testi un po' ovunque: tipo dove? Solo la Intro, no?
 - Pulizia generale del codice, ché non era pensato per uno scopo simile all'inizio: OK
