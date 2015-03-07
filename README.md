@@ -15,7 +15,7 @@ What is all this nonsense about "branding campaigns", or "interactive advertisin
 
 Isn't coming to terms with the fact that people on average don’t like ads and have more important things to do in life other than hearing from companies the first, insufficient and yet necessary step to end the delusional thinking and start doing (creative) work that actually sells products?
 
-- - 
+- - -
 
 What follows is part personal story of the ups and downs of life in the Start-up world; part reflection on the nature of Advertising, what the Web has done to it and what it's doing to it. 
 
