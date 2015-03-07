@@ -20,6 +20,10 @@ Isn't coming to terms with the fact that people on average don’t like ads and 
 
 ```txt
 ---
+non capisco, onestamente.<br /> 
+Questa roba non dovrebbe essere tutta metadata nascosta agli utenti?<br />
+E: per andare a capo uso un bel br classico da HTML?
+
 layout: default
 modal-id: 1
 date: 2015-03-07
@@ -37,10 +41,7 @@ description: Introduction to: What Happened To Advertising? What Would Gossage D
  - E' già tutto visibile online, [qui](http://dotcoma.github.io/)
 
 ## Come si scrive?  
-- I contenuti sono scritti in genere così: non capisco, onestamente.<br />
-Questa roba non dovrebbe essere tutta metadata nascosta agli utenti?
-
-(NOTA: io qui sopra ho usato un bel br per andare a capo? E' grave? :)
+- I contenuti sono scritti in genere così: 
 
 ```txt
 ---
