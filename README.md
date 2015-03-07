@@ -18,7 +18,6 @@ description: Introduction to: What Happened To Advertising? What Would Gossage D
  - Ecco una lista con un `testo evidenziato`.
  - Come si fa un link: by [dotcoma](http://dotcoma.it).
  - E un altro: è già tutto visibile online, [qui](http://dotcoma.github.io/)
- 
  - I contenuti sono scritti in genere così:
 ```txt
 ---
