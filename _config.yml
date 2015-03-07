@@ -1,25 +1,44 @@
-###########
-# site.url, site.title
+# Site settings
+title: What Happened To Advertising
+email: moruzzi@gmail.com
+url: http://dotcoma.github.io
+description: "What is all this nonsense about “branding campaigns”, “interactive advertising”, or “conversations” between a brand of butter and consumers?"
 
-url:   'http://dotcoma.github.io'
-title: 'What Happened To Advertising'
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
 
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: cccccc #80B3FF
+  secondary: bb141a #FD6E8A
+  secondary-dark: 80070b #A2122F
 
-########
-# more settings
+# Footer settings
+footer:
+  copyright: Massimo Moruzzi
+  location: Location
+  social: Around the Web
+  credits: Credits
 
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/dotcoma
+  - title: facebook
+    url: https://www.facebook.com/mmoruzzi
+  - title: wordpress
+    url: http://dotcoma.it
+  - title: github
+    url: http://github.com/dotcoma
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Milan
+  - line: Italy
+
+# Credits content
+credits: 'Tutto merito della mamma!'
+
+# Build settings
 markdown: kramdown
-
-sass:
-  sass_dir: css
-  style:    expanded
-
-
-
-exclude:
-- README.md
-
-
-safe: true
-lsi: false
-
+permalink: pretty
